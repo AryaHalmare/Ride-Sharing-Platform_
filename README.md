@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # College Ride Sharing - Login System
 
 A secure login and registration system for a college ride-sharing platform built with Flask and MySQL.
@@ -103,3 +104,7 @@ college-ride-sharing/
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details. 
+=======
+# Ride-Sharing-Platform_
+Developed a full-stack Ride Sharing Platform using Python (Flask) for backend and MySQL for database integration. Designed a responsive frontend with HTML, CSS, JavaScript, and Bootstrap for smooth user interaction. Key features include user authentication, ride creation/joining, and vehicle/request management.
+>>>>>>> 6266a2081e95a1243251a5be8cc94ced05cd5d38
